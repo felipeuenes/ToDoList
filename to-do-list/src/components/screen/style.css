@@ -4,3 +4,9 @@
     position: absolute;
     background-color: rgb(115, 125, 134);
 }
+
+.fullScreen{
+    width: 30.0rem;
+    height: 50.0rem;
+    background-color: white;
+}
